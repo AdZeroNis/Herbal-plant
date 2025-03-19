@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fa">
+<html lang="fa" >
 @include('Home.layouts.head')
 <body>
 @include('Home.layouts.header')
